@@ -1,0 +1,558 @@
+[
+  {
+    "id": "p1",
+    "name": "Толеген",
+    "nameKz": "Төлеген",
+    "nameEn": "Tolegen",
+    "generation": 1,
+    "era": "~1820-е гг.",
+    "eraKz": "~1820 жж.",
+    "eraEn": "~1820s",
+    "fatherId": null,
+    "isLiving": false,
+    "consentToShow": false,
+    "isUnknown": false,
+    "versions": [
+      {
+        "id": "v-tolegen-1",
+        "text": "Толеген собрал сородичей у предгорий Каркаралы во время великого джута, открыв общие амбары, чтобы ни одна семья в долине не осталась без хлеба.",
+        "textKz": "Төлеген ұлы жұт кезінде Қарқаралы бөктеріндегі ағайынды жинап, қамбасын ашып, сол қыста бірде-бір түтінді нансыз қалдырмаған.",
+        "textEn": "Tolegen gathered his kinsmen near the foothills of Karkaraly during the great freeze, sharing granaries so no household went without bread that winter.",
+        "place": "Карагандинская обл. (Каркаралы)",
+        "placeKz": "Қарағанды обл. (Қарқаралы)",
+        "placeEn": "Karaganda region (Karkaraly)",
+        "teller": "Аксакал Бауыржан",
+        "tellerKz": "Бауыржан ақсақал",
+        "tellerEn": "Aksakal Bauyrzhan",
+        "kind": "written",
+        "year": 2021,
+        "recordedBy": "его потомок Данияр",
+        "recordedByKz": "ұрпағы Данияр",
+        "recordedByEn": "his descendant Daniyar"
+      }
+    ]
+  },
+  {
+    "id": "p2",
+    "name": "Асан",
+    "nameKz": "Асан",
+    "nameEn": "Asan",
+    "generation": 2,
+    "era": "~1850-е гг.",
+    "eraKz": "~1850 жж.",
+    "eraEn": "~1850s",
+    "fatherId": "p1",
+    "isLiving": false,
+    "consentToShow": false,
+    "isUnknown": false,
+    "versions": [
+      {
+        "id": "v-asan-1",
+        "text": "Асан славился тонким глазом при отборе скакунов. Соседи из трех долин приезжали в его зимовье за советом перед покупкой жеребцов.",
+        "textKz": "Асан жылқы сынының хас шебері болған. Төңіректегі ел тай-құнан алар алдында оның қыстауына арнайы келіп ақылдасатын.",
+        "textEn": "Asan was known for his mastery in selecting horse stock. Neighbors from three valleys would ride to his winter camp before trading colts.",
+        "place": "Карагандинская обл. (Сарыарка)",
+        "placeKz": "Қарағанды обл. (Сарыарқа)",
+        "placeEn": "Karaganda region (Saryarka)",
+        "teller": "Аксакал Бауыржан",
+        "tellerKz": "Бауыржан ақсақал",
+        "tellerEn": "Aksakal Bauyrzhan",
+        "kind": "oral",
+        "year": 2008
+      }
+    ]
+  },
+  {
+    "id": "p3",
+    "name": "Усен",
+    "nameKz": "Үсен",
+    "nameEn": "Usen",
+    "generation": 2,
+    "era": "~1850-е гг.",
+    "eraKz": "~1850 жж.",
+    "eraEn": "~1850s",
+    "fatherId": "p1",
+    "isLiving": false,
+    "consentToShow": false,
+    "isUnknown": false,
+    "versions": [
+      {
+        "id": "v-usen-1",
+        "text": "Усен посадил тополя вдоль речной излучины близ Баянаула, чтобы караваны могли отдыхать в тени. Те старые деревья стоят и поныне.",
+        "textKz": "Үсен көш керуендері көлеңкелесін деп, Баянауыл маңындағы өзен бойына терек ектірген. Сол ағаштар осы күнге дейін жайқалып тұр.",
+        "textEn": "Usen planted poplars along the seasonal river bend near Bayanaul to shade traveling trade caravans. Some of those old trunks still stand.",
+        "place": "Павлодарская обл. (Баянаул)",
+        "placeKz": "Павлодар обл. (Баянауыл)",
+        "placeEn": "Pavlodar region (Bayanaul)",
+        "teller": "Бабушка Карлыгаш",
+        "tellerKz": "Қарлығаш әже",
+        "tellerEn": "Grandmother Karlygash",
+        "kind": "oral",
+        "year": 2012
+      }
+    ]
+  },
+  {
+    "id": "p4",
+    "name": "Баймурат",
+    "nameKz": "Баймұрат",
+    "nameEn": "Baimurat",
+    "generation": 3,
+    "era": "~1880-е гг.",
+    "eraKz": "~1880 жж.",
+    "eraEn": "~1880s",
+    "fatherId": "p2",
+    "isLiving": false,
+    "consentToShow": false,
+    "isUnknown": false,
+    "versions": [
+      {
+        "id": "v-baimurat-1",
+        "text": "Баймурат вел рукописную тетрадь с описанием сезонных пастбищ и пресных колодцев вдоль Ишима, передав её сыновьям.",
+        "textKz": "Баймұрат Есіл бойындағы жайылымдар мен тұщы құдықтардың жайын қолжазба дәптерге жазып, ұлдарына аманаттаған.",
+        "textEn": "Baimurat kept detailed handwritten ledgers of seasonal pastures and freshwater wells along the Ishim, passing his leather-bound notebook to his sons.",
+        "place": "Акмолинская обл. (р. Ишим)",
+        "placeKz": "Ақмола обл. (Есіл бойы)",
+        "placeEn": "Akmola region (Ishim river)",
+        "teller": "Семейная тетрадь (составил дядя Аскар)",
+        "tellerKz": "Отбасылық дәптер (Асқар аға құрастырған)",
+        "tellerEn": "Family notebook (compiled by Uncle Askar)",
+        "kind": "written",
+        "year": 1994
+      }
+    ]
+  },
+  {
+    "id": "p5",
+    "name": "Жаксылык",
+    "nameKz": "Жақсылық",
+    "nameEn": "Zhaksylyk",
+    "generation": 3,
+    "era": "~1880-е гг.",
+    "eraKz": "~1880 жж.",
+    "eraEn": "~1880s",
+    "fatherId": "p3",
+    "isLiving": false,
+    "consentToShow": false,
+    "isUnknown": false,
+    "versions": [
+      {
+        "id": "v-zhaksylyk-1",
+        "text": "Жаксылык был искусным мастером домбры: сушил горную березу у Иртыша четыре зимы, прежде чем натянуть струны.",
+        "textKz": "Жақсылық белгілі домбыра шебері еді: тау қайыңын Ертіс жағасында төрт қыс кептіріп барып, аспап шабатын.",
+        "textEn": "Zhaksylyk was a gifted dombra craftsman who seasoned mountain pine through four winters near the Irtysh river before stringing instruments.",
+        "place": "Павлодарская обл. (Прииртышье)",
+        "placeKz": "Павлодар обл. (Ертіс өңірі)",
+        "placeEn": "Pavlodar region (Irtysh basin)",
+        "teller": "Тетя Раушан",
+        "tellerKz": "Раушан апай",
+        "tellerEn": "Aunt Raushan",
+        "kind": "oral",
+        "year": 2016
+      }
+    ]
+  },
+  {
+    "id": "p6",
+    "name": "Ермек",
+    "nameKz": "Ермек",
+    "nameEn": "Ermek",
+    "generation": 4,
+    "era": "~1910-е гг.",
+    "eraKz": "~1910 жж.",
+    "eraEn": "~1910s",
+    "fatherId": "p4",
+    "isLiving": false,
+    "consentToShow": false,
+    "isUnknown": false,
+    "versions": [
+      {
+        "id": "v-ermek-1",
+        "text": "Ермек работал на хлебных полях в трудные годы восстановления и учил молодежь ремонтировать молотилки самодельными железными деталями.",
+        "textKz": "Ермек қиын жылдары егіс алқабында еңбек етіп, жастарға соқа мен бастырғышты қолдан соққан темірмен жөндеуді үйреткен.",
+        "textEn": "Ermek worked in the grain fields during the difficult recovery years and taught the youth how to repair threshers with improvised iron fittings.",
+        "place": "Карагандинская обл. (Каркаралы)",
+        "placeKz": "Қарағанды обл. (Қарқаралы)",
+        "placeEn": "Karaganda region (Karkaraly)",
+        "teller": "Двоюродная бабушка Сәуле",
+        "tellerKz": "Сәуле әже",
+        "tellerEn": "Great-aunt Saule",
+        "kind": "oral",
+        "year": 2015
+      },
+      {
+        "id": "v-ermek-2",
+        "text": "В записях аксакала отмечено, что Ермек организовывал общинное зернохранилище близ Баянаула, сберегая посевной фонд сухим во время буранов.",
+        "textKz": "Ақсақалдың жазбасында Ермектің Баянауыл маңындағы ортақ қамбаны ұйымдастырып, ақтүтек боранда тұқымдық бидайды аман сақтағаны айтылады.",
+        "textEn": "According to elder notes, Ermek organized the shared grain storehouse near Bayanaul, keeping seed supplies dry and guarded throughout the blizzards.",
+        "place": "Павлодарская обл. (Баянаул)",
+        "placeKz": "Павлодар обл. (Баянауыл)",
+        "placeEn": "Pavlodar region (Bayanaul)",
+        "teller": "Аксакал Бауыржан",
+        "tellerKz": "Бауыржан ақсақал",
+        "tellerEn": "Aksakal Bauyrzhan",
+        "kind": "written",
+        "year": 2011
+      }
+    ]
+  },
+  {
+    "id": "p7",
+    "name": "Сакен",
+    "nameKz": "Сәкен",
+    "nameEn": "Saken",
+    "generation": 4,
+    "era": "~1910-е гг.",
+    "eraKz": "~1910 жж.",
+    "eraEn": "~1910s",
+    "fatherId": "p4",
+    "isLiving": false,
+    "consentToShow": false,
+    "isUnknown": false,
+    "versions": [
+      {
+        "id": "v-saken-1",
+        "text": "Сакен помог основать первую сельскую библиотеку в ауле, перевозя школьные учебники на санях по замерзшему Ишиму.",
+        "textKz": "Сәкен ауылдағы алғашқы кітапхананы ашуға атсалысып, мектеп оқулықтарын қатқан Есілдің үстімен шанамен тасыған.",
+        "textEn": "Saken helped establish the first rural school library in the settlement, transporting textbooks by sledge across the frozen Ishim river.",
+        "place": "Акмолинская обл.",
+        "placeKz": "Ақмола обл.",
+        "placeEn": "Akmola region",
+        "teller": "Мемуары сельского учителя",
+        "tellerKz": "Ауыл мұғалімінің естелігі",
+        "tellerEn": "District teacher's memoir",
+        "kind": "written",
+        "year": 1988
+      }
+    ]
+  },
+  {
+    "id": "p8",
+    "name": "Даулет",
+    "nameKz": "Дәулет",
+    "nameEn": "Daulet",
+    "generation": 4,
+    "era": "~1910-е гг.",
+    "eraKz": "~1910 жж.",
+    "eraEn": "~1910s",
+    "fatherId": "p5",
+    "isLiving": false,
+    "consentToShow": false,
+    "isUnknown": false,
+    "versions": [
+      {
+        "id": "v-daulet-1",
+        "text": "Даулет умел спокойно рассудить земельные споры между соседними кочевьями, не доводя разногласия до волостного суда.",
+        "textKz": "Дәулет қыстау арасындағы жер дауын сабырмен шешіп, ағайын арасын сотқа жеткізбей бітістіретін кісі болған.",
+        "textEn": "Daulet had a calm presence in resolving pasture disputes between neighboring winter encampments without escalating to the district court.",
+        "place": "Павлодарская обл.",
+        "placeKz": "Павлодар обл.",
+        "placeEn": "Pavlodar region",
+        "teller": "Старейшина Мухтар",
+        "tellerKz": "Мұхтар ақсақал",
+        "tellerEn": "Elder Mukhtar",
+        "kind": "oral",
+        "year": 2010
+      }
+    ]
+  },
+  {
+    "id": "p9",
+    "name": "Неизвестный предок",
+    "nameKz": "Есімі беймәлім баба",
+    "nameEn": "Unknown",
+    "generation": 5,
+    "era": "~1930–1940-е гг.",
+    "eraKz": "~1930–1940 жж.",
+    "eraEn": "~1930s-1940s",
+    "fatherId": "p6",
+    "isLiving": false,
+    "consentToShow": false,
+    "isUnknown": true,
+    "versions": []
+  },
+  {
+    "id": "p10",
+    "name": "Бекжан",
+    "nameKz": "Бекжан",
+    "nameEn": "Bekzhan",
+    "generation": 5,
+    "era": "~1930–1940-е гг.",
+    "eraKz": "~1930–1940 жж.",
+    "eraEn": "~1930s-1940s",
+    "fatherId": "p6",
+    "isLiving": false,
+    "consentToShow": false,
+    "isUnknown": false,
+    "versions": [
+      {
+        "id": "v-bekzhan-1",
+        "text": "Бекжан перекочевал со стадом на север после суровой зимы.",
+        "textKz": "Бекжан қатты қыстан соң малын айдап солтүстікке қоныс аударған.",
+        "textEn": "Bekzhan moved with his herd to the north after a hard winter.",
+        "place": "Карагандинская обл.",
+        "placeKz": "Қарағанды обл.",
+        "placeEn": "Karaganda region",
+        "teller": "Дедушка Нурлан",
+        "tellerKz": "Нұрлан ата",
+        "tellerEn": "Grandfather Nurlan",
+        "kind": "oral",
+        "year": 2019
+      },
+      {
+        "id": "v-bekzhan-2",
+        "text": "В её записях Бекжан осел возле реки и держал лошадей.",
+        "textKz": "Оның жазбасында Бекжан өзен жағасына орнығып, жылқы ұстаған делінген.",
+        "textEn": "In her notes, Bekzhan settled near the river and kept horses.",
+        "place": "Павлодарская обл.",
+        "placeKz": "Павлодар обл.",
+        "placeEn": "Pavlodar region",
+        "teller": "Тетя Жанар",
+        "tellerKz": "Жанар апай",
+        "tellerEn": "Aunt Zhanar",
+        "kind": "written",
+        "year": 2023
+      }
+    ]
+  },
+  {
+    "id": "p11",
+    "name": "Мурат",
+    "nameKz": "Мұрат",
+    "nameEn": "Murat",
+    "generation": 5,
+    "era": "~1930–1940-е гг.",
+    "eraKz": "~1930–1940 жж.",
+    "eraEn": "~1930s-1940s",
+    "fatherId": "p8",
+    "isLiving": false,
+    "consentToShow": false,
+    "isUnknown": false,
+    "versions": [
+      {
+        "id": "v-murat-1",
+        "text": "Мурат работал на строительстве канала Иртыш-Караганда, определяя водоносные пласты в засушливой степи.",
+        "textKz": "Мұрат Ертіс-Қарағанды каналының құрылысында еңбек етіп, құрғақ даладағы тұщы су көздерін дәл тапқан.",
+        "textEn": "Murat served as a hydraulic technician on the Irtysh-Karaganda canal project, identifying reliable aquifers across dry steppe stretches.",
+        "place": "Карагандинская обл.",
+        "placeKz": "Қарағанды обл.",
+        "placeEn": "Karaganda region",
+        "teller": "Тетя Дина",
+        "tellerKz": "Дина апай",
+        "tellerEn": "Aunt Dina",
+        "kind": "written",
+        "year": 2018
+      }
+    ]
+  },
+  {
+    "id": "p12",
+    "name": "Кайрат",
+    "nameKz": "Қайрат",
+    "nameEn": "Kairat",
+    "generation": 6,
+    "era": "~1970-е гг.",
+    "eraKz": "~1970 жж.",
+    "eraEn": "~1970s",
+    "fatherId": "p9",
+    "isLiving": false,
+    "consentToShow": false,
+    "isUnknown": false,
+    "versions": [
+      {
+        "id": "v-kairat-1",
+        "text": "Кайрат тридцать лет работал в Баянаульском заповеднике, вёл дневники погоды и исследовал старинные наскальные стоянки.",
+        "textKz": "Қайрат отыз жыл Баянауыл қорығында қызмет етіп, ауа райы күнделігін жүргізді және көне тас үңгірлерді зерттеді.",
+        "textEn": "Kairat worked in the Bayanaul natural reserve for thirty years, keeping meteorological logs and guiding students through historical rock shelters.",
+        "place": "Павлодарская обл. (Баянаул)",
+        "placeKz": "Павлодар обл. (Баянауыл)",
+        "placeEn": "Pavlodar region (Bayanaul)",
+        "teller": "Двоюродный брат Болат",
+        "tellerKz": "Болат аға",
+        "tellerEn": "Cousin Bolat",
+        "kind": "oral",
+        "year": 2017
+      }
+    ]
+  },
+  {
+    "id": "p13",
+    "name": "Нурлан",
+    "nameKz": "Нұрлан",
+    "nameEn": "Nurlan",
+    "generation": 6,
+    "era": "~1970-е гг.",
+    "eraKz": "~1970 жж.",
+    "eraEn": "~1970s",
+    "fatherId": "p10",
+    "isLiving": false,
+    "consentToShow": false,
+    "isUnknown": false,
+    "versions": [
+      {
+        "id": "v-nurlan-1",
+        "text": "Нурлан был инженером и десятилетиями вёл родословные записи на пергаментных тетрадях, наказывая детям не терять связь с родней.",
+        "textKz": "Нұрлан инженер бола жүріп, шежіре дәптерін ондаған жылдар бойы жүргізді, ұрпағына туыспен байланысты үзбеуді өсиет етті.",
+        "textEn": "Nurlan was an engineer who spent decades documenting family lineages on parchment notebooks, urging young relatives never to lose touch with cousins.",
+        "place": "Карагандинская обл.",
+        "placeKz": "Қарағанды обл.",
+        "placeEn": "Karaganda region",
+        "teller": "Семейная тетрадь (составила тетя Жанар)",
+        "tellerKz": "Отбасылық дәптер (Жанар апай құрастырған)",
+        "tellerEn": "Family notebook (compiled by Aunt Zhanar)",
+        "kind": "written",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": "p14",
+    "name": "Серик",
+    "nameKz": "Серік",
+    "nameEn": "Serik",
+    "generation": 6,
+    "era": "~1970-е гг.",
+    "eraKz": "~1970 жж.",
+    "eraEn": "~1970s",
+    "fatherId": "p11",
+    "isLiving": false,
+    "consentToShow": false,
+    "isUnknown": false,
+    "versions": [
+      {
+        "id": "v-serik-1",
+        "text": "Серик работал на машинно-тракторной станции в Акмоле, его помнят за мастерство ремонта оросительных турбин.",
+        "textKz": "Серік Ақмоладағы машина-трактор шеберханасында істеді, суару құрылғыларын шебер жөндегені үшін ел есінде қалған.",
+        "textEn": "Serik worked on the agricultural machinery depot in Astana, widely remembered for fixing irrigation turbines when factory spares were delayed.",
+        "place": "Акмолинская обл. (Астана)",
+        "placeKz": "Ақмола обл. (Астана)",
+        "placeEn": "Akmola region (Astana)",
+        "teller": "Дядя Марат",
+        "tellerKz": "Марат аға",
+        "tellerEn": "Uncle Marat",
+        "kind": "oral",
+        "year": 2020
+      }
+    ]
+  },
+  {
+    "id": "p15",
+    "name": "Арман",
+    "nameKz": "Арман",
+    "nameEn": "Arman",
+    "generation": 7,
+    "era": "~2000-е гг.",
+    "eraKz": "~2000 жж.",
+    "eraEn": "~2000s",
+    "fatherId": "p13",
+    "isLiving": true,
+    "consentToShow": false,
+    "isUnknown": false,
+    "versions": [
+      {
+        "id": "v-arman-1",
+        "text": "Арман учится на архитектора в Астане и мечтает восстановить старинный каменный колодец в Каркаралы.",
+        "textKz": "Арман Астанада сәулет өнерін оқып жүр, Қарқаралыдағы көне тас құдықты қалпына келтіруді армандайды.",
+        "textEn": "Arman studied architecture in Astana and often speaks of drafting a community restoration plan for the old stone well in Karkaraly.",
+        "place": "Акмолинская обл. (Астана)",
+        "placeKz": "Ақмола обл. (Астана)",
+        "placeEn": "Akmola region (Astana)",
+        "teller": "Бабушка Карлыгаш",
+        "tellerKz": "Қарлығаш әже",
+        "tellerEn": "Grandmother Karlygash",
+        "kind": "oral",
+        "year": 2021
+      }
+    ]
+  },
+  {
+    "id": "p16",
+    "name": "Алия",
+    "nameKz": "Әлия",
+    "nameEn": "Aliya",
+    "generation": 7,
+    "era": "~2000-е гг.",
+    "eraKz": "~2000 жж.",
+    "eraEn": "~2000s",
+    "fatherId": "p13",
+    "isLiving": true,
+    "consentToShow": false,
+    "isUnknown": false,
+    "versions": [
+      {
+        "id": "v-aliya-1",
+        "text": "Алия работает архивистом и собирает фронтовые письма и старые фотографии семей Центрального Казахстана.",
+        "textKz": "Әлия архивист болып еңбек етеді, Орталық Қазақстан отбасыларының көне хаттары мен суреттерін жинақтайды.",
+        "textEn": "Aliya is an archivist preserving 20th-century family letters and early photographs from the mining settlements of central Kazakhstan.",
+        "place": "Карагандинская обл.",
+        "placeKz": "Қарағанды обл.",
+        "placeEn": "Karaganda region",
+        "teller": "Тетя Жанар",
+        "tellerKz": "Жанар апай",
+        "tellerEn": "Aunt Zhanar",
+        "kind": "oral",
+        "year": 2023
+      }
+    ]
+  },
+  {
+    "id": "p17",
+    "name": "Данияр",
+    "nameKz": "Данияр",
+    "nameEn": "Daniyar",
+    "generation": 7,
+    "era": "~2000-е гг.",
+    "eraKz": "~2000 жж.",
+    "eraEn": "~2000s",
+    "fatherId": "p14",
+    "isLiving": true,
+    "consentToShow": true,
+    "isUnknown": false,
+    "versions": [
+      {
+        "id": "v-daniyar-1",
+        "text": "Данияр записывает на диктофон рассказы старейшин, чтобы живая речь, поговорки и диалекты сохранились для будущего поколения.",
+        "textKz": "Данияр қариялардың сөздерін диктофонға жазып, үлкендердің сөйлеу мәнері мен сөз саптауын болашаққа аманаттауда.",
+        "textEn": "Daniyar records interviews with elder relatives so their voices, sayings, and steppe dialects remain intact for future generations.",
+        "place": "Акмолинская обл. (Астана)",
+        "placeKz": "Ақмола обл. (Астана)",
+        "placeEn": "Akmola region (Astana)",
+        "teller": "Его отец Серик",
+        "tellerKz": "Әкесі Серік",
+        "tellerEn": "His father Serik",
+        "kind": "written",
+        "year": 2023
+      }
+    ]
+  },
+  {
+    "id": "p18",
+    "name": "Тимур",
+    "nameKz": "Тимур",
+    "nameEn": "Timur",
+    "generation": 7,
+    "era": "~2000-е гг.",
+    "eraKz": "~2000 жж.",
+    "eraEn": "~2000s",
+    "fatherId": "p12",
+    "isLiving": true,
+    "consentToShow": true,
+    "isUnknown": false,
+    "versions": [
+      {
+        "id": "v-timur-1",
+        "text": "Тимур изучает фольклор в Павлодаре и бережно хранит путевые тетради своего отца Кайрата со сказаниями Прииртышья.",
+        "textKz": "Тимур Павлодарда фольклортануды оқып, әкесі Қайраттың Ертіс өңірінің аңыз-әңгімелері жазылған жол дәптерін сақтауда.",
+        "textEn": "Timur studies folklore in Pavlodar and preserves the field journals of his father Kairat documenting oral tales across the Irtysh river steppe.",
+        "place": "Павлодарская обл.",
+        "placeKz": "Павлодар обл.",
+        "placeEn": "Pavlodar region",
+        "teller": "Дневник его отца Кайрата",
+        "tellerKz": "Әкесі Қайраттың күнделігі",
+        "tellerEn": "His father Kairat's journal",
+        "kind": "written",
+        "year": 2022
+      }
+    ]
+  }
+]
